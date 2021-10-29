@@ -5,6 +5,4 @@ Here are my list of projects down here...
 
 1-)Find Minimum Value via Integer Array
 
-
-
 2-)Find Minimum Value over random numbers created by computer
